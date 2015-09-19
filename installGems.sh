@@ -7,6 +7,7 @@ gem install activerecord
 gem install activesupport
 gem install addressable
 gem install adsf
+gem install ai4r
 gem install arbre
 gem install arel
 gem install ast
@@ -99,27 +100,6 @@ gem install ffi
 gem install fission
 gem install flog
 gem install flowdock
-gem install fog
-gem install fog-atmos
-gem install fog-aws
-gem install fog-brightbox
-gem install fog-core
-gem install fog-ecloud
-gem install fog-google
-gem install fog-json
-gem install fog-local
-gem install fog-powerdns
-gem install fog-profitbricks
-gem install fog-radosgw
-gem install fog-riakcs
-gem install fog-sakuracloud
-gem install fog-serverlove
-gem install fog-softlayer
-gem install fog-storm_on_demand
-gem install fog-terremark
-gem install fog-vmfusion
-gem install fog-voxel
-gem install fog-xml
 gem install formatador
 gem install formtastic
 gem install formtastic-bootstrap
@@ -130,6 +110,7 @@ gem install gas
 gem install gem-wrappers
 gem install geocoder
 gem install gherkin
+gem install gherkin3
 gem install git
 gem install github
 gem install globalid
@@ -146,7 +127,6 @@ gem install has_scope
 gem install hashie
 gem install highline
 gem install hike
-gem install hipchat
 gem install hirb
 gem install hitimes
 gem install homesick
@@ -284,6 +264,7 @@ gem install simple_oauth
 gem install simplecov
 gem install simplecov-html
 gem install simplecov-rcov
+gem install slim
 gem install slop
 gem install sort_alphabetical
 gem install spoon
@@ -297,6 +278,7 @@ gem install sqlite3
 gem install squeel
 gem install sshkit
 gem install swt
+gem install temple
 gem install term-ansicolor
 gem install terminal-table
 gem install test-unit
