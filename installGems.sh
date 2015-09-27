@@ -114,6 +114,7 @@ gem install gherkin3
 gem install git
 gem install github
 gem install globalid
+gem install growl
 gem install guard
 gem install guard-compat
 gem install guard-cucumber
@@ -153,7 +154,6 @@ gem install kaminari
 gem install kgio
 gem install kramdown
 gem install launchy
-gem install libnotify
 gem install libv8
 gem install listen
 gem install loofah
@@ -249,8 +249,10 @@ gem install rubocop
 gem install ruby-blockcache
 gem install ruby-progressbar
 gem install ruby2ruby
+gem install ruby_gntp
 gem install ruby_parser
 gem install rubygems-bundler
+gem install rubygems-update
 gem install rubyzip
 gem install rvm
 gem install sass
@@ -280,6 +282,7 @@ gem install sshkit
 gem install swt
 gem install temple
 gem install term-ansicolor
+gem install terminal-notifier-guard
 gem install terminal-table
 gem install test-unit
 gem install text-format
