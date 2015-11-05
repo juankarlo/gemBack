@@ -238,6 +238,8 @@ gem install ref
 gem install responders
 gem install rgeo
 gem install rgeo-activerecord
+gem install right_aws
+gem install right_http_connection
 gem install rspec
 gem install rspec-core
 gem install rspec-expectations
@@ -255,6 +257,7 @@ gem install rubygems-bundler
 gem install rubygems-update
 gem install rubyzip
 gem install rvm
+gem install safe_yaml
 gem install sass
 gem install sass-rails
 gem install sdoc
@@ -313,6 +316,7 @@ gem install websocket-extensions
 gem install whenever
 gem install wicked_pdf
 gem install will_paginate
+gem install workload
 gem install xml-simple
 gem install xpath
 gem install yard
