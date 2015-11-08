@@ -44,6 +44,7 @@ gem install celluloid-supervision
 gem install CFPropertyList
 gem install childprocess
 gem install chronic
+gem install chunky_png
 gem install climate_control
 gem install cocaine
 gem install coderay
@@ -53,6 +54,9 @@ gem install coffee-script-source
 gem install colored
 gem install colorize
 gem install columnize
+gem install compass
+gem install compass-core
+gem install compass-import-once
 gem install concurrent-ruby
 gem install cookiejar
 gem install countries
@@ -136,6 +140,7 @@ gem install http-cookie
 gem install http-form_data
 gem install http_parser.rb
 gem install httparty
+gem install hub
 gem install i18n
 gem install i18n_data
 gem install inflecto
