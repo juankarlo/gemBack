@@ -39,6 +39,7 @@ gem install celluloid
 gem install celluloid-essentials
 gem install celluloid-extras
 gem install celluloid-fsm
+gem install celluloid-io
 gem install celluloid-pool
 gem install celluloid-supervision
 gem install CFPropertyList
@@ -66,12 +67,14 @@ gem install cri
 gem install cucumber
 gem install cucumber-core
 gem install cucumber-rails
+gem install cucumber-wire
 gem install currencies
 gem install database_cleaner
 gem install debug_inspector
 gem install debugger-linecache
 gem install descendants_tracker
 gem install devise
+gem install did_you_mean
 gem install diff-lcs
 gem install docile
 gem install dogapi
@@ -101,6 +104,7 @@ gem install fastercsv
 gem install faye
 gem install faye-websocket
 gem install ffi
+gem install figaro
 gem install fission
 gem install flog
 gem install flowdock
@@ -135,12 +139,13 @@ gem install hike
 gem install hirb
 gem install hitimes
 gem install homesick
+gem install htmlentities
 gem install http
 gem install http-cookie
 gem install http-form_data
 gem install http_parser.rb
 gem install httparty
-gem install hub
+gem install hybridgroup-argus
 gem install i18n
 gem install i18n_data
 gem install inflecto
@@ -159,7 +164,7 @@ gem install kaminari
 gem install kgio
 gem install kramdown
 gem install launchy
-gem install libv8
+gem install libnotify
 gem install listen
 gem install loofah
 gem install lucene
@@ -169,8 +174,10 @@ gem install memoizable
 gem install metaclass
 gem install method_source
 gem install mime-types
+gem install mime-types-data
 gem install mimemagic
 gem install mini_portile
+gem install mini_portile2
 gem install minitest
 gem install mocha
 gem install multi_json
@@ -184,6 +191,8 @@ gem install net-ftp-list
 gem install net-scp
 gem install net-sftp
 gem install net-ssh
+gem install net-telnet
+gem install nio4r
 gem install nokogiri
 gem install notiffany
 gem install nyan-cat-formatter
@@ -239,12 +248,14 @@ gem install redcar-icons
 gem install redcar-javamateview
 gem install redcar-jruby
 gem install redcar-svnkit
+gem install reel
 gem install ref
 gem install responders
 gem install rgeo
 gem install rgeo-activerecord
 gem install right_aws
 gem install right_http_connection
+gem install robeaux
 gem install rspec
 gem install rspec-core
 gem install rspec-expectations
@@ -279,6 +290,7 @@ gem install slop
 gem install sort_alphabetical
 gem install spoon
 gem install spork
+gem install spork-rails
 gem install spring
 gem install spring-commands-rspec
 gem install sprockets
@@ -295,7 +307,6 @@ gem install terminal-table
 gem install test-unit
 gem install text-format
 gem install text-hyphen
-gem install therubyracer
 gem install thor
 gem install thread_safe
 gem install tilt
@@ -318,6 +329,7 @@ gem install web-console
 gem install websocket
 gem install websocket-driver
 gem install websocket-extensions
+gem install websocket_parser
 gem install whenever
 gem install wicked_pdf
 gem install will_paginate
