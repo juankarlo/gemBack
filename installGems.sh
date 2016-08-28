@@ -1,3 +1,4 @@
+gem install actioncable
 gem install actionmailer
 gem install actionpack
 gem install actionview
@@ -136,6 +137,7 @@ gem install guard-rspec
 gem install guard-rubocop
 gem install guard-spork
 gem install haml
+gem install hamster
 gem install has_scope
 gem install hashie
 gem install highline
@@ -205,10 +207,12 @@ gem install orm_adapter
 gem install pagerduty
 gem install paperclip
 gem install parser
+gem install path_expander
 gem install pdf-core
 gem install pdfkit
 gem install pg
 gem install pg-hstore
+gem install pkg-config
 gem install plugin_manager
 gem install polyamorous
 gem install polyglot
@@ -322,6 +326,7 @@ gem install tins
 gem install treetop
 gem install ttfunk
 gem install turbolinks
+gem install turbolinks-source
 gem install twitter
 gem install tzinfo
 gem install uglifier
