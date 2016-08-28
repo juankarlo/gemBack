@@ -8,6 +8,7 @@ gem install activesupport
 gem install addressable
 gem install adsf
 gem install ai4r
+gem install airbrussh
 gem install arbre
 gem install arel
 gem install ast
@@ -15,6 +16,8 @@ gem install astrolabe
 gem install atomic
 gem install autoprefixer-rails
 gem install aws-ses
+gem install babel-source
+gem install babel-transpiler
 gem install bcrypt
 gem install better_errors
 gem install bigdecimal
@@ -31,6 +34,7 @@ gem install bundler-unload
 gem install byebug
 gem install capistrano
 gem install capistrano-bundler
+gem install capistrano-harrow
 gem install capistrano-rails
 gem install capistrano-rvm
 gem install capistrano3-puma
@@ -267,6 +271,7 @@ gem install rubocop
 gem install ruby-blockcache
 gem install ruby-progressbar
 gem install ruby2ruby
+gem install ruby_dep
 gem install ruby_gntp
 gem install ruby_parser
 gem install rubygems-bundler
@@ -294,6 +299,7 @@ gem install spork-rails
 gem install spring
 gem install spring-commands-rspec
 gem install sprockets
+gem install sprockets-es6
 gem install sprockets-rails
 gem install spruz
 gem install sqlite3
@@ -321,6 +327,7 @@ gem install tzinfo
 gem install uglifier
 gem install unf
 gem install unf_ext
+gem install unicode-display_width
 gem install unicode_utils
 gem install unicorn
 gem install vcr
