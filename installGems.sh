@@ -188,7 +188,9 @@ gem install mini_portile
 gem install mini_portile2
 gem install minitest
 gem install mocha
+gem install monetize
 gem install money
+gem install money-rails
 gem install multi_json
 gem install multi_test
 gem install multi_xml
