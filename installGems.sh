@@ -19,6 +19,7 @@ gem install autoprefixer-rails
 gem install aws-ses
 gem install babel-source
 gem install babel-transpiler
+gem install backports
 gem install bcrypt
 gem install better_errors
 gem install bigdecimal
@@ -69,6 +70,7 @@ gem install countries
 gem install country_select
 gem install cowsay
 gem install cri
+gem install csv2api
 gem install cucumber
 gem install cucumber-core
 gem install cucumber-rails
@@ -186,6 +188,7 @@ gem install mini_portile
 gem install mini_portile2
 gem install minitest
 gem install mocha
+gem install money
 gem install multi_json
 gem install multi_test
 gem install multi_xml
@@ -206,6 +209,7 @@ gem install open4
 gem install orm_adapter
 gem install pagerduty
 gem install paperclip
+gem install parallel
 gem install parser
 gem install path_expander
 gem install pdf-core
@@ -226,11 +230,13 @@ gem install pry-rails
 gem install pry-rescue
 gem install pry-stack_explorer
 gem install psych
+gem install public_suffix
 gem install puma
 gem install quiet_assets
 gem install rack
 gem install rack-cache
 gem install rack-livereload
+gem install rack-protection
 gem install rack-ssl
 gem install rack-test
 gem install rails
@@ -294,6 +300,8 @@ gem install simple_oauth
 gem install simplecov
 gem install simplecov-html
 gem install simplecov-rcov
+gem install sinatra
+gem install sixarm_ruby_unaccent
 gem install slim
 gem install slop
 gem install sort_alphabetical
