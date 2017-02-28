@@ -4,4 +4,6 @@ This script will help you to quick backup a list of your current gems in your lo
 ## Usage
 ruby gemBack.rb
 
-Enjoy it...
+At this moment is not working please use 
+
+`gem list|sed 's/(//'|sed 's/)//'|awk '{print \"gem install \" \$1}' > installGems.sh`
