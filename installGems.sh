@@ -12,6 +12,8 @@ gem install ai4r
 gem install airbrussh
 gem install arbre
 gem install arel
+gem install artoo
+gem install artoo-sphero
 gem install ast
 gem install astrolabe
 gem install atomic
@@ -24,6 +26,7 @@ gem install bcrypt
 gem install better_errors
 gem install bigdecimal
 gem install binding_of_caller
+gem install bootstrap
 gem install bootstrap-sass
 gem install bootstrap-will_paginate
 gem install bouncy-castle-java
@@ -52,8 +55,18 @@ gem install CFPropertyList
 gem install childprocess
 gem install chronic
 gem install chunky_png
+gem install claide
 gem install climate_control
 gem install cocaine
+gem install cocoapods
+gem install cocoapods-core
+gem install cocoapods-deintegrate
+gem install cocoapods-downloader
+gem install cocoapods-plugins
+gem install cocoapods-search
+gem install cocoapods-stats
+gem install cocoapods-trunk
+gem install cocoapods-try
 gem install coderay
 gem install coffee-rails
 gem install coffee-script
@@ -77,6 +90,7 @@ gem install cucumber-rails
 gem install cucumber-wire
 gem install currencies
 gem install database_cleaner
+gem install ddplugin
 gem install debug_inspector
 gem install debugger-linecache
 gem install descendants_tracker
@@ -99,6 +113,7 @@ gem install em-websocket
 gem install email_spec
 gem install equalizer
 gem install erubis
+gem install escape
 gem install eventmachine
 gem install excon
 gem install execjs
@@ -119,11 +134,14 @@ gem install formatador
 gem install formtastic
 gem install formtastic-bootstrap
 gem install foundation-rails
+gem install fourflusher
 gem install friendly_id
 gem install fuubar
+gem install fuzzy_match
 gem install gas
 gem install gem-wrappers
 gem install geocoder
+gem install gh_inspector
 gem install gherkin
 gem install gherkin3
 gem install git
@@ -169,6 +187,9 @@ gem install jruby-openssl
 gem install json
 gem install json_pure
 gem install kaminari
+gem install kaminari-actionview
+gem install kaminari-activerecord
+gem install kaminari-core
 gem install kgio
 gem install kramdown
 gem install launchy
@@ -188,6 +209,7 @@ gem install mini_portile
 gem install mini_portile2
 gem install minitest
 gem install mocha
+gem install molinillo
 gem install monetize
 gem install money
 gem install money-rails
@@ -195,7 +217,9 @@ gem install multi_json
 gem install multi_test
 gem install multi_xml
 gem install multipart-post
+gem install nanaimo
 gem install nanoc
+gem install nap
 gem install naught
 gem install nenv
 gem install net-ftp-list
@@ -203,6 +227,7 @@ gem install net-scp
 gem install net-sftp
 gem install net-ssh
 gem install net-telnet
+gem install netrc
 gem install nio4r
 gem install nokogiri
 gem install notiffany
@@ -281,6 +306,7 @@ gem install rspec-rails
 gem install rspec-support
 gem install rubocop
 gem install ruby-blockcache
+gem install ruby-macho
 gem install ruby-progressbar
 gem install ruby2ruby
 gem install ruby_dep
@@ -288,6 +314,7 @@ gem install ruby_gntp
 gem install ruby_parser
 gem install rubygems-bundler
 gem install rubygems-update
+gem install rubyserial
 gem install rubyzip
 gem install rvm
 gem install safe_yaml
@@ -307,6 +334,7 @@ gem install sixarm_ruby_unaccent
 gem install slim
 gem install slop
 gem install sort_alphabetical
+gem install sphero
 gem install spoon
 gem install spork
 gem install spork-rails
@@ -356,6 +384,7 @@ gem install whenever
 gem install wicked_pdf
 gem install will_paginate
 gem install workload
+gem install xcodeproj
 gem install xml-simple
 gem install xpath
 gem install yard
