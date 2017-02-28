@@ -26,7 +26,6 @@ gem install bcrypt
 gem install better_errors
 gem install bigdecimal
 gem install binding_of_caller
-gem install bootstrap
 gem install bootstrap-sass
 gem install bootstrap-will_paginate
 gem install bouncy-castle-java
@@ -68,7 +67,6 @@ gem install cocoapods-stats
 gem install cocoapods-trunk
 gem install cocoapods-try
 gem install coderay
-gem install coffee-rails
 gem install coffee-script
 gem install coffee-script-source
 gem install colored
@@ -233,6 +231,7 @@ gem install nokogiri
 gem install notiffany
 gem install nyan-cat-formatter
 gem install open4
+gem install openssl
 gem install orm_adapter
 gem install pagerduty
 gem install paperclip
@@ -386,5 +385,6 @@ gem install will_paginate
 gem install workload
 gem install xcodeproj
 gem install xml-simple
+gem install xmlrpc
 gem install xpath
 gem install yard
