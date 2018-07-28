@@ -17,6 +17,7 @@ gem install artoo
 gem install artoo-sphero
 gem install ast
 gem install astrolabe
+gem install async_sinatra
 gem install atomic
 gem install autoprefixer-rails
 gem install aws-ses
@@ -86,13 +87,16 @@ gem install cookiejar
 gem install countries
 gem install country_select
 gem install cowsay
+gem install crass
 gem install cri
 gem install csv2api
 gem install cucumber
 gem install cucumber-core
 gem install cucumber-rails
 gem install cucumber-wire
+gem install curb
 gem install currencies
+gem install daemons
 gem install database_cleaner
 gem install ddplugin
 gem install debug_inspector
@@ -239,6 +243,7 @@ gem install loofah
 gem install lucene
 gem install lumberjack
 gem install mail
+gem install maruku
 gem install memoizable
 gem install metaclass
 gem install method_source
@@ -255,10 +260,12 @@ gem install molinillo
 gem install monetize
 gem install money
 gem install money-rails
+gem install msgpack
 gem install multi_json
 gem install multi_test
 gem install multi_xml
 gem install multipart-post
+gem install mustermann
 gem install nanaimo
 gem install nanoc
 gem install nap
@@ -272,6 +279,7 @@ gem install net-telnet
 gem install netrc
 gem install nio4r
 gem install nokogiri
+gem install nokogumbo
 gem install notiffany
 gem install nyan-cat-formatter
 gem install open4
@@ -290,6 +298,7 @@ gem install pkg-config
 gem install plugin_manager
 gem install polyamorous
 gem install polyglot
+gem install polytexnic
 gem install power_assert
 gem install powerpack
 gem install prawn
@@ -302,6 +311,7 @@ gem install pry-stack_explorer
 gem install psych
 gem install public_suffix
 gem install puma
+gem install pygments.rb
 gem install quiet_assets
 gem install rack
 gem install rack-cache
@@ -326,6 +336,7 @@ gem install rake
 gem install ransack
 gem install rb-fsevent
 gem install rb-inotify
+gem install rb-kqueue
 gem install rbvmomi
 gem install rdoc
 gem install redcar
@@ -337,6 +348,7 @@ gem install redcar-svnkit
 gem install reel
 gem install ref
 gem install responders
+gem install rest-client
 gem install rgeo
 gem install rgeo-activerecord
 gem install right_aws
@@ -363,7 +375,9 @@ gem install rubyserial
 gem install rubyzip
 gem install rvm
 gem install safe_yaml
+gem install sanitize
 gem install sass
+gem install sass-listen
 gem install sass-rails
 gem install sdoc
 gem install selenium-webdriver
@@ -375,9 +389,11 @@ gem install simplecov
 gem install simplecov-html
 gem install simplecov-rcov
 gem install sinatra
+gem install sinatra-respond_to
 gem install sixarm_ruby_unaccent
 gem install slim
 gem install slop
+gem install softcover
 gem install sort_alphabetical
 gem install sphero
 gem install spoon
@@ -401,6 +417,7 @@ gem install terminal-table
 gem install test-unit
 gem install text-format
 gem install text-hyphen
+gem install thin
 gem install thor
 gem install thread_safe
 gem install tilt
