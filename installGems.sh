@@ -15,7 +15,6 @@ gem install adsf
 gem install ai4r
 gem install airbrussh
 gem install algolia
-gem install algoliasearch
 gem install aliyun-sdk
 gem install ansi
 gem install arbre
@@ -25,7 +24,6 @@ gem install artoo-sphero
 gem install ast
 gem install astrolabe
 gem install async_sinatra
-gem install atomic
 gem install atomos
 gem install autoprefixer-rails
 gem install aws-ses
@@ -73,8 +71,6 @@ gem install claide
 gem install climate_control
 gem install cmath
 gem install cocaine
-gem install cocoapods
-gem install cocoapods-core
 gem install cocoapods-deintegrate
 gem install cocoapods-downloader
 gem install cocoapods-plugins
@@ -109,7 +105,6 @@ gem install cucumber-core
 gem install cucumber-create-meta
 gem install cucumber-cucumber-expressions
 gem install cucumber-expressions
-gem install cucumber-gherkin
 gem install cucumber-html-formatter
 gem install cucumber-messages
 gem install cucumber-rails
@@ -138,7 +133,6 @@ gem install devise_invitable
 gem install devise_token_auth
 gem install did_you_mean
 gem install diff-lcs
-gem install digest
 gem install docile
 gem install dogapi
 gem install domain_name
@@ -314,7 +308,6 @@ gem install little-plugger
 gem install logger
 gem install logging
 gem install loofah
-gem install lucene
 gem install lumberjack
 gem install mail
 gem install marcel
